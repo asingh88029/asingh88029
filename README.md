@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">UG Student | Full Stack (MERN) Developer | React Native App Developer | IoT & Automation Developer | Smart India Hackathon 2022 Winner | ML & AI Enthusiast</h3>
+<h3 align="center">Full Stack (MERN) Developer | React Native App Developer | IoT & Automation Developer | Smart India Hackathon 2022 Winner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asingh88029&label=Profile%20views&color=0e75b6&style=flat" alt="asingh88029" /> </p>
 
-- 🌱 I’m currently learning **DSA & Data Science**
-
-- 👨‍💻 All of my projects are available at [https://www.ankit-singh.me/](https://www.ankit-singh.me/)
+- 🌱 I’m currently working on **React, React Native, Express.js, Node.js & MongoDB**
 
 - 💬 Ask me about **React.js, React Native, mongoDB, Express.js, Node.js, IoT & Robotics**
 
 - 📫 How to reach me **asingh88029@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TS6S-2qf4yD1Sqf8fEzalD8yoy1tBqO1/view?usp=sharing](https://drive.google.com/file/d/1TS6S-2qf4yD1Sqf8fEzalD8yoy1tBqO1/view?usp=sharing)
-
-- ⚡ Fun fact **I love to share my knowledge with my peers**
+- ⚡ Fun fact **I love teaching the students. I teach Web Developemnt(MERN) at geeskter.in and masaischool.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
